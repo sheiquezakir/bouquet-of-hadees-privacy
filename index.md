@@ -31,7 +31,6 @@ This data is stored exclusively on your device and is never transmitted to us or
 
 Our App requires minimal permissions to function:
 
-- Storage permission: Required only to store your preferences and favorites locally on your device
 - Internet permission: Required only for initial app installation and updates through the Play Store
 
 ## Children's Privacy
