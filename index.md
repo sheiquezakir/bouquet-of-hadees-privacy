@@ -21,7 +21,7 @@ Bouquet of Hadees is designed with privacy in mind. We are happy to inform you t
 
 The App stores the following information locally on your device only:
 
-- App settings (theme preferences, font size, language selection)
+- App settings (font size, language selection)
 - Favorite Hadees marked by you
 - Daily Hadees selection state
 
@@ -49,7 +49,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or the App, please contact us at:
 
-Email: [Your Contact Email]
+Email: pmarmca@gmail.com
 
 ## Open Source Attribution
 
